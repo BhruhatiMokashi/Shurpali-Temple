@@ -5,9 +5,9 @@ body{
 }
 
 .hero{
-    display:flex;
+    display: flex;
     justify-content:space-around;
-    align-items:center;
+    align-items: center;
 
     padding:50px;
 
@@ -44,22 +44,22 @@ nav{
 
     padding:20px;
 
-    text-align:center;
+    text-align: center;
 }
 
 nav a{
-    color:white;
+    color: white;
 
-    text-decoration:none;
+    text-decoration: none;
 
     margin:20px;
 
     font-size:18px;
 
-    font-weight:bold;
+    font-weight: bold;
 }
 
-nav a:hover{
+nav a: hover{
     color:#FFD700;
 }
 
